@@ -1,4 +1,5 @@
 # LangGraph Adaptive RAG
+![Screenshot](screenshot.png)
 
 **LangGraph Adaptive RAG** is an end-to-end Retrieval-Augmented Generation (RAG) application that leverages [LangChain](https://www.langchain.com/), [LangGraph](https://github.com/langchain-ai/langgraph), and modern LLM inference APIs to provide adaptive question answering via both vectorstore retrieval and up-to-date web search.
 
